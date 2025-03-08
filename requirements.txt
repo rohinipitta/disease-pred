@@ -82,7 +82,6 @@ jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 keras==3.5.0
 Kivy==2.3.0
-kivy-deps.angle==0.4.0
 kivy-deps.glew==0.3.1
 kivy-deps.sdl2==0.7.0
 Kivy-Garden==0.1.5
