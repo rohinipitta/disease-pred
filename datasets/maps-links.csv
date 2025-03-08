@@ -1,0 +1,66 @@
+Disease,State,District,map1,map2,map3
+Diabetes,Telangana,warangal,https://maps.app.goo.gl/iwYzYoNhE49WFNZ3A,https://maps.app.goo.gl/X9vP6VAc3UjXeFvR8?g_st=aw,https://maps.app.goo.gl/gSjhspEakFGgE8DM8?g_st=aw
+Malaria,,,https://maps.app.goo.gl/iwYzYoNhE49WFNZ3A,https://maps.app.goo.gl/JCshUYBgYTgnpwaX8?g_st=aw,https://maps.app.goo.gl/6n5FNMx7rcJ7gyT26?g_st=aw
+Common Cold,,,https://maps.app.goo.gl/gBFrQ8BG7eLCKNvM8?g_st=aw,https://maps.app.goo.gl/BQ7WseaURnJNfEAR8?g_st=aw,https://maps.app.goo.gl/NK6Bw8UGAiqGS7Vg7?g_st=aw
+Hypertension,,,https://maps.app.goo.gl/99SzCNZzip4qF6Qe8,https://maps.app.goo.gl/sDLnN343CukfmbHy7,https://maps.app.goo.gl/1GUb7PBEzWb26DZb6
+Arthritis,,,https://maps.app.goo.gl/GxaWZkqWhkNDzHYd6,https://maps.app.goo.gl/Cc1SzyG1d52AM6NG6,https://maps.app.goo.gl/6uBSFdtPFMjbZgp69
+Gastritis,,,https://maps.app.goo.gl/dqQWY6K7BFj9Czdu9,https://maps.app.goo.gl/ZXr5ZmkLvTQScmi99,https://maps.app.goo.gl/u9JLzyxeZgGvA6bc8
+Migraine,,,https://maps.app.goo.gl/vAWfxWoujCY4Jhkf8,https://maps.app.goo.gl/qMDm1krSREh9ZS4dA,https://maps.app.goo.gl/Cb3vXuF81aTuwyid6
+Dengue,,,https://maps.app.goo.gl/fKyj7KbSuXBEnCZg7,https://maps.app.goo.gl/uY85AfBpWWxQ1FQo6,https://maps.app.goo.gl/pc1kcvnfQQfgUa3h7
+Bronchitis,,,https://maps.app.goo.gl/dpMQeDL7Gg9ZSkaj8,https://maps.app.goo.gl/e2vkgiwA5na2Lg966,https://maps.app.goo.gl/uXN3mKjsCWcopgkJ8
+COVID-19,,,https://maps.app.goo.gl/XQT1HpE669YJJV3W8,https://maps.app.goo.gl/wphDWum7gCeeJ2pF8,https://maps.app.goo.gl/v1bpLS8edRF6iDj99
+Influenza (Flu),,,https://maps.app.goo.gl/JDmyZq49QTGidq9G7,https://maps.app.goo.gl/8kkNmr9hh3Qyt7qg8,https://maps.app.goo.gl/LXAna3EXJWFHuEwN8
+Tuberculosis,,,https://maps.app.goo.gl/xeS74URvt5Tb8u6N8,,
+Malaria,,,https://maps.app.goo.gl/Qn2tD2x6Mf2HstCH8,https://maps.app.goo.gl/k8r3LRN2JxJXnHWP7,https://maps.app.goo.gl/vX5vFaUCQ2ez2wgF7
+Dengue Fever,,,https://maps.app.goo.gl/kZgqWAkWDke6MUrZ8,https://maps.app.goo.gl/b3UzkhM9rmY8EPG18,https://maps.app.goo.gl/JW287cH69oNMfmZS7
+Typhoid,,,https://maps.app.goo.gl/JW287cH69oNMfmZS7,https://maps.app.goo.gl/pkx2Nyt35229HX4n8,https://maps.app.goo.gl/xEDb4MBjRFB9JJmu9
+Cholera,,,https://maps.app.goo.gl/xh8nCTPxLdmWqAAaA,https://maps.app.goo.gl/HtEYuyzTodMeDYHc6,https://maps.app.goo.gl/iaTHGhNUm99EB2xp9
+Pneumonia,,,https://maps.app.goo.gl/Ps8s15YdSwEeWGY37,https://maps.app.goo.gl/KCrJD9F8uYMBGAQU9,https://maps.app.goo.gl/YkoxxZYnVx7qK6UZ6
+Asthma,,,https://maps.app.goo.gl/7Xn2wAMNqt3vhbWz9,https://maps.app.goo.gl/T4LXigJPEjsDfqDN7,https://maps.app.goo.gl/bw9jvkWa626GDhXL6
+Bronchitis,,,https://maps.app.goo.gl/xk5411TAzV4aKkEdA,https://maps.app.goo.gl/UZ1FwG8nxQ2HWgrq6,https://maps.app.goo.gl/UZ1FwG8nxQ2HWgrq6
+Diabetes,,,https://maps.app.goo.gl/pazeo3xtgxNNtuor8,https://maps.app.goo.gl/iD9FPRmsVRkc7Aem6,https://maps.app.goo.gl/pazeo3xtgxNNtuor8
+Hypertension,,,https://maps.app.goo.gl/e57uuY6VLjZdF56H6,https://maps.app.goo.gl/Bh3Pa5FCTU8xY5sg8,https://maps.app.goo.gl/fS4QvdJgPRwYWFWe7
+Heart Disease,,,https://maps.app.goo.gl/HKvhusDq4LUtsTC88,https://maps.app.goo.gl/1MtXrQSrMKj5qETU6,https://maps.app.goo.gl/wZPWsyvRRKFd6b2QA
+Stroke,,,https://maps.app.goo.gl/NSQmycwQGVDfnt5d7,https://maps.app.goo.gl/DvkDoquU2uBmtJsJ9,https://maps.app.goo.gl/oQRAUfajkPgop85E7
+Alzheimer's Disease,,,https://maps.app.goo.gl/fzCsrEgWtcpiRHhN9,https://maps.app.goo.gl/Tp44oTsAnGXYrGDp7,https://maps.app.goo.gl/DvkDoquU2uBmtJsJ9
+Parkinson's Disease,,,https://maps.app.goo.gl/kduT6JWPFTV3o22x8,https://maps.app.goo.gl/DvkDoquU2uBmtJsJ9,https://maps.app.goo.gl/xh8nCTPxLdmWqAAaA
+Epilepsy,,,https://maps.app.goo.gl/sUWLiwAuApDGKhSQ8,https://maps.app.goo.gl/WH4xqfz7a9Q9XrKr6,https://maps.app.goo.gl/MFryNRFQvNLNTbRp6
+Migraine,,,https://maps.app.goo.gl/VTY4Zmw6ufZKoi326,https://maps.app.goo.gl/qWcAmvpWyZijGqBZ7,https://maps.app.goo.gl/fzCsrEgWtcpiRHhN9
+Osteoporosis,,,https://maps.app.goo.gl/MvFeqTeRxappZ9yd8,https://maps.app.goo.gl/QRzkpUAGXfUMMXqH6,https://maps.app.goo.gl/xJgAQNZ33hDCu9AC9
+Appendicitis,,,https://maps.app.goo.gl/g3PdqtLkeuFU9v5i7,https://maps.app.goo.gl/nbxLqTQQRMdRtSmA7,https://maps.app.goo.gl/9rkr2LVjt3tA4Kca6
+Hepatitis B,,,https://maps.app.goo.gl/a8S7CCqgE4yzfMz1A,https://maps.app.goo.gl/ZUkskEQu3ZvD5HU3A,https://maps.app.goo.gl/XpUgeBscoVvWfaGf6
+Kidney Stones,,,https://maps.app.goo.gl/Q9yVdhDZwM473cW9A,https://maps.app.goo.gl/iBheVv92A7GhMeyM8,https://maps.app.goo.gl/wh4umRpkhwjkggjp9
+Urinary Tract Infection (UTI),,,https://maps.app.goo.gl/pcsz47gZ7hWPygVXA,https://maps.app.goo.gl/Gdg8qNQZNpQKaaydA,https://maps.app.goo.gl/Q9yVdhDZwM473cW9A
+Anemia,,,https://maps.app.goo.gl/35SAEro9jnKxS8dB8,https://maps.app.goo.gl/XRFU5n6Cgm536QEy8,https://maps.app.goo.gl/Dc4QSfa1DcJGrAwf9
+Leprosy,,,https://maps.app.goo.gl/zYDe2xVC5EUMhpiz5,https://maps.app.goo.gl/Y6TyHwDCRhpjREkFA,https://maps.app.goo.gl/S8gJfHicjfmHmtCx7
+Psoriasis,,,https://maps.app.goo.gl/1B2a3S4fucJCPYBF6,https://maps.app.goo.gl/6c3pshrTAQpPgWZTA,https://maps.app.goo.gl/oP4UPNfsG5s93tJ76
+Skin Cancer,,,https://maps.app.goo.gl/mhmfFfULSmLUDHT68,https://maps.app.goo.gl/Mmd5dLxGiokyM8vEA,https://maps.app.goo.gl/qLee6dEUmNQtuH8v7
+HIV/AIDS,,,https://maps.app.goo.gl/xJZCgWtzEftPUmDh6,https://maps.app.goo.gl/8q9Mtm5hTTVps35b8,https://maps.app.goo.gl/k3p9wvSQey2KuUD1A
+Depression,,,https://maps.app.goo.gl/XwTrCxMDSFNf1mCf9,https://maps.app.goo.gl/xp888TqR1uAuyuD36,https://maps.app.goo.gl/XwTrCxMDSFNf1mCf9
+Meningitis,,,https://maps.app.goo.gl/VzKVnH44QCciF1xc8,https://maps.app.goo.gl/d5ofn6JmLBmF8AyZA,https://maps.app.goo.gl/w37jfcLJJFBT4sNS9
+Typhoid Fever,,,https://maps.app.goo.gl/Hs4SxnsrjuG7ZoXH7,https://maps.app.goo.gl/VF3tr77ZSYNCnPK26,https://maps.app.goo.gl/QvhiT4jW8ZaY4PVt6
+Tuberculosis (TB),,,https://maps.app.goo.gl/dNjDruZ53DTBnZw77,https://maps.app.goo.gl/C485jrXdUAez22d87,https://maps.app.goo.gl/uYPkMAvuxYwE6As69
+Diphtheria,,,https://maps.app.goo.gl/mthGNkWwLkC5RNui6,https://maps.app.goo.gl/krzspzEYGmUFWMNc9,https://maps.app.goo.gl/Qkn3ZVvpY6PoUmtq9
+Measles,,,https://maps.app.goo.gl/pQahDqjwW8PrCBR87,https://maps.app.goo.gl/aZ1YBLa97RZVRE537,https://maps.app.goo.gl/o2WvuYBncjUdfkKF6
+Chickenpox,,,https://maps.app.goo.gl/hTNNBnhKqDST9EMFA,https://maps.app.goo.gl/zb2Maqc17R3pyXdP6,https://maps.app.goo.gl/XEStDSRT4oppswhe6
+Tetanus,,,https://maps.app.goo.gl/CVETqLtPT4qUB5ud6,https://maps.app.goo.gl/Y9s1EJA5VsAqjsqj7,https://maps.app.goo.gl/gx1ehh4fMfJmnbR9A
+Rabies,,,https://maps.app.goo.gl/SgsSx7VAUestF6Wx6,https://maps.app.goo.gl/nsHaFPoqtYLJn3ds5,https://maps.app.goo.gl/8dsRun6h2sheoa918
+Leptospirosis,,,https://maps.app.goo.gl/pBd619w7dvXprd1b6,https://maps.app.goo.gl/jd36EqpiCfFM4bWY7,https://maps.app.goo.gl/7wbvd8QwhyEkhtWz5
+Chikungunya,,,https://maps.app.goo.gl/ru42tzC2oRXFhKZr7,https://maps.app.goo.gl/dz8xzaeCdWPHEQQCA,https://maps.app.goo.gl/WQArGUstcP6n47M3A
+Hepatitis A,,,https://maps.app.goo.gl/TPsEfMDr2LZqfGE39,https://maps.app.goo.gl/fcUtmNV15XXvrnP97,https://maps.app.goo.gl/cLtLY4uDbRQYvw5d8
+Hepatitis C,,,,,
+Liver Cirrhosis,,,,,
+Cystic Fibrosis,,,,,
+Multiple Sclerosis (MS),,,,,
+Polio,,,,,
+Ebola Virus Disease,,,,,
+Zika Virus,,,,,
+Anxiety Disorder,,,,,
+Schizophrenia,,,,,
+Lupus,,,,,
+Celiac Disease,,,,,
+Crohnâ€™s Disease,,,,,
+Ulcerative Colitis,,,,,
+Parkinsonâ€™s Disease,,,,,
+Gout,,,,,
+Varicella (Shingles),,,,,

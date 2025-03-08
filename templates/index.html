@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Disease Prediction</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Disease Prediction System</h1>
+    <form method="POST">
+        <label>Select Symptoms:</label>
+        {% for i in range(1, 4) %}
+            <select name="symptom{{ i }}" class="symptom-dropdown">
+                <option value="">-- Select Symptom {{ i }} --</option>
+                {% for symptom in symptoms_list %}
+                    <option value="{{ symptom }}">{{ symptom }}</option>
+                {% endfor %}
+            </select>
+        {% endfor %}
+        <br>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if disease %}
+        <h2>Predicted Disease: {{ disease }}</h2>
+        <p><strong>Precautions:</strong> {{ details['Precautions'] }}</p>
+        <p><strong>Medications:</strong> {{ details['Medications'] }}</p>
+        <p><strong>Tests:</strong> {{ details['Tests'] }}</p>
+        <p><strong>Causes:</strong> {{ details['Causes'] }}</p>
+
+        <!-- Corrected Download Report Button -->
+        <a href="{{ url_for('download_report', disease=disease, 
+            precautions=details['Precautions'], 
+            medications=details['Medications'], 
+            tests=details['Tests'], 
+            causes=details['Causes']) }}">
+            <button>Download Report</button>
+        </a>
+        <a href="{{ url_for('find_hospitals', disease=disease) }}">
+            <button>Find Hospitals</button>
+        </a>
+        
+    {% endif %}
+
+    <script>
+        $(document).ready(function() {
+            $('.symptom-dropdown').select2({ placeholder: "Search and select", allowClear: true });
+        });
+    </script>
+</body>
+</html>

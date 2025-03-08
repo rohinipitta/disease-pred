@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Hospitals</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Find Hospitals for {{ disease }}</h1>
+    <form method="POST">
+        <label for="state">Select State:</label>
+        <select name="state" id="state" onchange="this.form.submit()">
+            <option value="">-- Select State --</option>
+            {% for state in states %}
+                <option value="{{ state }}" {% if state == request.form.get('state') %}selected{% endif %}>{{ state }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="district">Select District:</label>
+        <select name="district" id="district">
+            <option value="">-- Select District --</option>
+            {% for district in districts %}
+                <option value="{{ district }}" {% if district == request.form.get('district') %}selected{% endif %}>{{ district }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Search</button>
+    </form>
+
+    {% for hospital in hospitals %}
+        <ul>
+            {% for link in hospital["Google Maps Links"] %}
+                <li>
+                    <a href="{{ link }}" target="_blank">View on Google Maps</a>
+                    <button onclick="registerForToken()">Register for Token</button>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+    <script>
+        function registerForToken() {
+    let name = prompt("Enter your name:");
+    let phone = prompt("Enter your phone number:");
+
+    if (name && phone) {
+        fetch("/register", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams({ name: name, phone: phone })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.token) {
+                alert("Your token number is: " + data.token);
+                document.getElementById("token-status").innerText = "Your Token Number: " + data.token;
+            } else {
+                alert("Registration failed.");
+            }
+        })
+        .catch(error => alert("Error registering for token."));
+    }
+}
+
+    </script>
+</body>
+</html>

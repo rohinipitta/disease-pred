@@ -1,0 +1,66 @@
+Disease,Symptom1,Symptom2,Symptom3,Precautions,Medications,Specialist,Tests,Causes
+Diabetes,Frequent Urination,Increased Thirst,Fatigue,"Maintain a balanced diet, exercise regularly, monitor blood sugar levels, and avoid sugary foods.",Metformin,Endocrinologist,"Blood Sugar Test, HbA1c Test","Genetic factors, Obesity, Insulin resistance"
+Malaria,Fever,Headache,Chills,"Use mosquito nets, wear long-sleeved clothing, apply insect repellent, and avoid stagnant water.",Chloroquine,Infectious Disease Specialist,"Blood Smear Test, Rapid Diagnostic Test","Mosquito bite, Plasmodium infection"
+Common Cold,Sneezing,Sore Throat,Cough,"Wash hands frequently, avoid close contact with sick individuals, stay hydrated, and get adequate rest.",Paracetamol,General Physician,"No specific test, Clinical diagnosis","Viral infection, Weakened immune system"
+Hypertension,Headache,Dizziness,Blurred Vision,"Reduce salt intake, exercise regularly, avoid smoking and alcohol, and manage stress.",Lisinopril,Cardiologist,"Blood Pressure Test, ECG, Blood Tests","High salt intake, Stress, Obesity"
+Arthritis,Joint Pain,Stiffness,Swelling,"Maintain a healthy weight, exercise regularly, avoid repetitive motions, and use joint protection techniques.",Ibuprofen,Rheumatologist,"X-ray, MRI, Blood Tests","Aging, Autoimmune disorders, Joint injury"
+Gastritis,Stomach Pain,Nausea,Indigestion,"Avoid spicy and acidic foods, eat smaller meals, limit alcohol consumption, and manage stress.",Antacids,Gastroenterologist,Unknown,Unknown
+Migraine,Headache,Nausea,Sensitivity to Light,"Identify and avoid triggers like stress and certain foods, maintain a regular sleep schedule, and stay hydrated.",Sumatriptan,Neurologist,Unknown,Unknown
+Dengue,Fever,Muscle Pain,Rash,"Prevent mosquito bites by using repellents, wear protective clothing, and eliminate standing water around your home.",Paracetamol,Infectious Disease Specialist,Unknown,Unknown
+Bronchitis,Cough,Chest Discomfort,Fatigue,"Quit smoking, avoid irritants like dust and pollution, stay hydrated, and get plenty of rest.",Amoxicillin,Pulmonologist,Unknown,Unknown
+COVID-19,Fever,Cough,Shortness of breath,"Wear mask, sanitize hands, social distance","Antivirals, pain relievers",Pulmonologist,Unknown,Unknown
+Influenza (Flu),Fever,Body aches,Sore throat,"Flu vaccine, hygiene, avoid sick people","Antivirals, pain relievers",General Physician,Unknown,Unknown
+Tuberculosis,Cough (blood-tinged),Night sweats,Weight loss,"BCG vaccine, avoid infected individuals","Antibiotics (Rifampin, Isoniazid)",Pulmonologist,Unknown,Unknown
+Malaria,High fever,Chills,Sweating,"Use mosquito nets, antimalarial drugs","Chloroquine, Artemisinin",Infectious Disease Specialist,"Blood Smear Test, Rapid Diagnostic Test","Mosquito bite, Plasmodium infection"
+Dengue Fever,High fever,Severe headache,Skin rash,"Mosquito control, ","Pain relievers, IV fluids",Infectious Disease Specialist,Unknown,Unknown
+Typhoid,High fever,Abdominal pain,Weakness,"Hygiene, avoid contaminated food/water",Antibiotics (Ciprofloxacin),General Physician,Unknown,Unknown
+Cholera,Severe diarrhea,Dehydration,Vomiting,"Clean water, sanitation","ORS, Antibiotics",Infectious Disease Specialist,Unknown,Unknown
+Pneumonia,Chest pain,Fever,Cough (mucus),"Vaccination, avoid smoking","Antibiotics, Antivirals",Pulmonologist,Unknown,Unknown
+Asthma,Shortness of breath,Wheezing,Chest tightness,"Avoid allergens, inhaler use","Bronchodilators, Steroids",Pulmonologist,Unknown,Unknown
+Bronchitis,Persistent cough,Mucus production,Fatigue,"Avoid smoke, stay hydrated","Cough suppressants, Antibiotics (if bacterial)",Pulmonologist,Unknown,Unknown
+Diabetes,Frequent urination,Excessive thirst,Fatigue,"Healthy diet, exercise","Insulin, Metformin",Endocrinologist,"Blood Sugar Test, HbA1c Test","Genetic factors, Obesity, Insulin resistance"
+Hypertension,Headache,Dizziness,Nosebleeds,"Low-salt diet, exercise","Beta-blockers, ACE inhibitors",Cardiologist,"Blood Pressure Test, ECG, Blood Tests","High salt intake, Stress, Obesity"
+Heart Disease,Chest pain,Shortness of breath,Fatigue,"Healthy lifestyle, cholesterol control","Blood thinners, Statins",Cardiologist,Unknown,Unknown
+Stroke,Numbness (one side),Confusion,Slurred speech,"Control BP, avoid smoking","Blood thinners, Clot busters",Neurologist,Unknown,Unknown
+Alzheimer's Disease,Memory loss,Confusion,Mood changes,"Mental exercises, healthy diet",Cholinesterase inhibitors,Neurologist,Unknown,Unknown
+Parkinson's Disease,Tremors,Stiff muscles,Slowed movement,"Exercise, avoid toxins",Dopamine medications,Neurologist,Unknown,Unknown
+Epilepsy,Seizures,Unconsciousness,Confusion,"Avoid triggers, stress management",Anticonvulsants,Neurologist,Unknown,Unknown
+Migraine,Severe headache,Nausea,Sensitivity to light,"Avoid triggers, stress management","Pain relievers, Triptans",Neurologist,Unknown,Unknown
+Osteoporosis,Bone fractures,Back pain,Weak grip strength,"Calcium, Vitamin D intake",Bisphosphonates,Orthopedic Specialist,Unknown,Unknown
+Appendicitis,Abdominal pain,Nausea,Fever,"Avoid fatty foods, hydration",Surgery,General Surgeon,Unknown,Unknown
+Hepatitis B,Jaundice,Fatigue,Abdominal pain,"Hepatitis B vaccine, avoid unclean needles","Antivirals, Liver protectants",Hepatologist,Unknown,Unknown
+Kidney Stones,Severe pain (side),Nausea,Painful urination,"Hydration, reduce oxalate foods","Pain relievers, Lithotripsy",Urologist,Unknown,Unknown
+Urinary Tract Infection (UTI),Frequent urination,Burning sensation,Cloudy urine,"Hygiene, drink water",Antibiotics,Urologist,Unknown,Unknown
+Anemia,Fatigue,Pale skin,Shortness of breath,"Iron-rich diet, Vitamin B12 intake","Iron supplements, B12",Hematologist,Unknown,Unknown
+Leprosy,Skin sores,Nerve damage,Numbness,"Early detection, hygiene",Antibiotics,Dermatologist,Unknown,Unknown
+Psoriasis,Red skin patches,Itching,Scaly skin,"Moisturizing, avoid triggers","Steroids, Immunosuppressants",Dermatologist,Unknown,Unknown
+Skin Cancer,Abnormal skin growth,Change in moles,Bleeding lesion,"Sunscreen, avoid UV exposure","Surgery, Chemotherapy",Oncologist,Unknown,Unknown
+HIV/AIDS,Weight loss,Recurrent infections,Fatigue,"Safe sex, avoid unclean needles",Antiretrovirals (ART),Infectious Disease Specialist,Unknown,Unknown
+Depression,Sadness,Loss of interest,Sleep disturbances,"Therapy, healthy lifestyle",Antidepressants,Psychiatrist,Unknown,Unknown
+Meningitis,Fever,Headache,Stiff Neck,"Vaccination, hygiene, avoid infected individuals","Antibiotics, Steroids","Neurologist, Infectious Disease Specialist",Unknown,Unknown
+Typhoid Fever,High Fever,Abdominal Pain,Weakness,"Hygiene, avoid contaminated food/water",Antibiotics (Ciprofloxacin),General Physician,Unknown,Unknown
+Tuberculosis (TB),Cough (blood-tinged),Night Sweats,Weight Loss,"BCG vaccine, avoid infected individuals","Antibiotics (Rifampin, Isoniazid)",Pulmonologist,Unknown,Unknown
+Diphtheria,Sore Throat,Swollen Glands,Difficulty Breathing,"Vaccination, avoid close contact","Antibiotics, Antitoxins",Infectious Disease Specialist,Unknown,Unknown
+Measles,Rash,High Fever	,Runny Nose,"MMR vaccine, hygiene","Fever reducers, Fluids",Pediatrician,Unknown,Unknown
+Chickenpox,Skin Rash,Itching,Fever,"Vaccination, avoid scratching","Antivirals, Antihistamines","Dermatologist, Pediatrician",Unknown,Unknown
+Tetanus,Muscle Stiffness,Lockjaw,Difficulty Swallowing,"Vaccination, wound care",Tetanus Immunoglobulin,Infectious Disease Specialist,Unknown,Unknown
+Rabies,Fever,Hydrophobia,Hallucinations,"Vaccination, avoid animal bites",Rabies Immunoglobulin,"Neurologist, Infectious Disease Specialist",Unknown,Unknown
+Leptospirosis,High Fever,Muscle Pain,Jaundice,Avoid contaminated water,"Doxycycline, Penicillin",Infectious Disease Specialist,Unknown,Unknown
+Chikungunya,Joint Pain,Fever,Rash,"Mosquito control, insect repellent","Pain relievers, Fluids",Infectious Disease Specialist,Unknown,Unknown
+Hepatitis A,Jaundice,Nausea,Fatigue,"Vaccination, clean water",Supportive care,Hepatologist,Unknown,Unknown
+Hepatitis C,Fatigue,Jaundice,Abdominal Pain,"Avoid unclean needles, safe sex",Antivirals,Hepatologist,Unknown,Unknown
+Liver Cirrhosis,Fatigue,Jaundice,Swelling,"Avoid alcohol, healthy diet, manage hepatitis","Diuretics, Beta-blockers",Hepatologist,Unknown,Unknown
+Cystic Fibrosis,Persistent Cough,Lung Infections,Poor Growth,"Genetic screening, physiotherapy, airway clearance","Mucolytics, Antibiotics",Pulmonologist,Unknown,Unknown
+Multiple Sclerosis (MS),Vision Problems,Muscle Weakness,Numbness,"Physical therapy, avoid overheating","Immunomodulators, Corticosteroids",Neurologist,Unknown,Unknown
+Polio,Fever,Muscle Weakness,Paralysis,"Polio vaccine, hygiene",Supportive therapy,"Neurologist, Infectious Disease Specialist",Unknown,Unknown
+Ebola Virus Disease,High Fever,Bleeding,Organ Failure,"Avoid infected individuals, protective clothing","Supportive care, Antivirals",Infectious Disease Specialist,Unknown,Unknown
+Zika Virus,Rash,Fever,Joint Pain,"Mosquito control, avoid travel to outbreak areas","Pain relievers, Fluids",Infectious Disease Specialist,Unknown,Unknown
+Anxiety Disorder,Excessive Worry,Restlessness,Rapid Heart Rate,"Therapy, meditation","Anxiolytics, Antidepressants",Psychiatrist,Unknown,Unknown
+Schizophrenia,Hallucinations,Disorganized Speech,Delusions,"Early intervention, therapy",Antipsychotics,Psychiatrist,Unknown,Unknown
+Lupus,Fatigue,Joint Pain,Skin Rash,"Avoid triggers, sun protection","Immunosuppressants, Steroids",Rheumatologist,Unknown,Unknown
+Celiac Disease,Abdominal Pain,Diarrhea,Weight Loss,Gluten-free diet,Dietary management,Gastroenterologist,Unknown,Unknown
+Crohn’s Disease,Abdominal Pain,Diarrhea,Fatigue,"Healthy diet, reduce stress","Anti-inflammatories, Biologics",Gastroenterologist,Unknown,Unknown
+Ulcerative Colitis,Bloody Diarrhea,Abdominal Pain,Fatigue,"Avoid trigger foods, medication","Anti-inflammatories, Immunosuppressants",Gastroenterologist,Unknown,Unknown
+Parkinson’s Disease,Tremors,Stiff Muscles,Slowed Movement,"Exercise, avoid toxins",Dopamine Medications,Neurologist,Unknown,Unknown
+Gout,Joint Pain,Swelling,Redness,"Avoid alcohol, reduce purine-rich foods","Anti-inflammatories, Uric Acid Reducers",Rheumatologist,Unknown,Unknown
+Varicella (Shingles),Painful Rash,Blisters,Burning Sensation,"Vaccination, avoid stress","Antivirals, Pain Relievers","Dermatologist, Neurologist",Unknown,Unknown

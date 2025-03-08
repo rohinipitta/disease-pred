@@ -1,0 +1,3 @@
+Disease Prediction Report
+--------------------------
+Predicted Disease: Malaria

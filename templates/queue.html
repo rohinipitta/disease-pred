@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Queue Status</title>
+    <script>
+        function fetchQueueStatus() {
+            fetch("/queue_status")
+            .then(response => response.json())
+            .then(data => {
+                let queueList = document.getElementById("queueList");
+                queueList.innerHTML = "";
+
+                data.forEach(patient => {
+                    let status = patient.status === "Waiting" ? "⌛ Waiting" : "✅ Now Enter";
+                    queueList.innerHTML += `<li>Token: ${patient.token} - ${patient.name} - ${patient.hospital} - ${status}</li>`;
+                });
+            });
+        }
+
+        setInterval(fetchQueueStatus, 5000); // Refresh every 5 seconds
+    </script>
+</head>
+<body>
+    <h2>Current Queue Status</h2>
+    <ul id="queueList"></ul>
+    <p id="token-status"></p>
+
+</body>
+</html>
